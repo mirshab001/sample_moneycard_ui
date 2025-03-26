@@ -9,7 +9,7 @@ class ProfilePage extends StatelessWidget {
       body: Padding(
         padding: EdgeInsets.all(20),
         child: Center(
-          child: Text("hii...hello world"),
+          child: Text("profile page"),
         ),
       ),
     );
